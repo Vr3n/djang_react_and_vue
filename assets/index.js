@@ -14,6 +14,14 @@
 // React JS.
 import React from 'react';
 import ReactDOM from 'react-dom';
+// Vue.
+import Vue from 'vue';
+import Index from './index.vue';
+
+new Vue({
+    el: '#vue-root',
+    render: h => h(Index),
+});
 
 ReactDOM.render(
     <h1>Hello from React</h1>,
