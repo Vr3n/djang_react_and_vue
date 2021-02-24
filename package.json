@@ -1,0 +1,25 @@
+{
+  "name": "djang_react_and_vue",
+  "version": "1.0.0",
+  "description": "Understanding the working of Modern javascript and creating Hybrid Architecture to get best of both worlds Modern Javascript and Batteries of Django.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vr3n/djang_react_and_vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vr3n/djang_react_and_vue/issues"
+  },
+  "homepage": "https://github.com/Vr3n/djang_react_and_vue#readme",
+  "devDependencies": {
+    "webpack": "^5.24.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
